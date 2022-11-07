@@ -5,22 +5,20 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="your-linkedin-URL">
+  <a href="https://t.me/vovandrelo">
      <img src="https://img.shields.io/badge/Telegram-grey?style=social&logo=telegram&logoColor=white" alt="Telegram" width="100"/>
   </a>
 </div>
 
-
-
 ## Junior Frontend Developer
 - Имею диплом бакалавра по специальности ИВТ;
-- В настоящее время обучаюсь в магистратуре по специальности "";
-- Занимаюсь вёрсткой сайтов с помощью технологий:
-- Добавляют интерактивность сайтам с помошью технологий:
-- Разрабатываю SPA-приложения с помощью технологий:
-- Разрабатываю Fullstack-приложения, в качестве backend-части используются технологии:
+- В настоящее время обучаюсь в магистратуре по специальности "Конструирование и технология электронных средств";
+- Занимаюсь вёрсткой сайтов с помощью технологий: Html + Sass + Gulp;
+- Добавляют интерактивность сайтам с помошью технологий: JS + TS + Webpack;
+- Разрабатываю SPA-приложения с помощью технологий: TS + React + Redux + Webpack;
+- Разрабатываю Fullstack-приложения, в качестве backend-части используются технологии: NodeJs + Express + PostgreSQL;
 - Проходил курсы в онлайн школе "Learn Javascript" по технологиям: JS, TS и React + Redux;
-- Проходил курсы на платформе Udemy по технологиям: Html+Css, JS, Express, React + Redux;
+- Проходил курсы на платформе Udemy по технологиям: Html + Css, JS, Express, React + Redux;
 
 ---
 
